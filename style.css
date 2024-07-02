@@ -67,22 +67,16 @@ html{
 .about-text h2{
     padding-bottom: 10px;
     font-family: 'kavoon';
-   
-
 }
 
 .profile-img{
-    width: 200px;
-    height: 400px;
-    
-padding-top: 14px;
-padding-left: 10px;
+   /* width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px solid black;*/
+    padding-top: 14px;
+    padding-left: 10px;
     object-fit: cover;
-    border-radius: 300px ;
-    
-    
-
-
 }
 .profile-img img{
     max-width:100%;
@@ -135,7 +129,7 @@ padding-right: 10px;
 
 }
 .links{
-    list-style-type: none;
+    list-style-type:none;
 }
 
 .links li a{
@@ -175,8 +169,7 @@ padding-right: 10px;
         margin: 30px;
     }
     .profile-img{
-        width:300px;
-        height: auto;
+        padding-right: 10px;
         margin: 0 auto;
     
     }
